@@ -9,3 +9,13 @@ In this lab:
 
 * You will configure Server objects, Virtual servers, and Server policies on the FortiWeb-VM via the FortiWeb GUI to install and enable webservers (Juice-Shop, DVWA and other applications) hosted in GCP access to the internet and then enable Virtual IPs to protect the web servers against OWASP Top 10 and other web attacks by the FortiWeb.
 * You may find some flags... not sure
+
+---
+buttons:
+  - title: Hands on Lab - Download
+    icon: material-file-download-outline
+    attributes:
+      class: md-content__button md-icon
+      href: ../hands-on-labs.pdf
+      target: _blank
+---
