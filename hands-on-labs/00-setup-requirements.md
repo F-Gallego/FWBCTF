@@ -11,7 +11,7 @@ You'll need to create an account using **the same email address** used for the e
 !!! tip
     Note: If you already have your own personal Google Cloud account or project, do not use it for this lab to avoid extra charges to your account.
 
-    * Go to https://fortinet.qwiklabs.com/
+Go to [Fortinet Qwiklabs](https://fortinet.qwiklabs.com/)
     * Click the blue button **Join** in the upper right conner
     * Create an account using the same **email address**
     * Once logged into Qwiklabs go to **Dashboard** tab
