@@ -1,5 +1,23 @@
 # Setup Requirements
 
+## Access the Qwiklabs
+
+!!! warning
+    Note: Use an Incognito or private browser window to run this lab. This prevents any conflicts between your personal account and the Student account, which may cause extra charges incurred to your personal account.
+
+Qwiklabs is a platform where we will run our environment today. This platform creates new cloud accounts for each use.
+You'll need to create an account using **the same email address** used for the event registration.
+
+!!! tip
+    Note: If you already have your own personal Google Cloud account or project, do not use it for this lab to avoid extra charges to your account.
+
+    * Go to https://fortinet.qwiklabs.com/
+    * Click the blue button **Join** in the upper right conner
+    * Create an account using the same **email address**
+    * Once logged into Qwiklabs go to **Dashboard** tab
+    * You'll see the FortiWeb card, click on it
+    * Click on FortiWeb lab
+
 ## Before you click the Start Lab button
 
 Read these instructions. Labs are timed and **you cannot pause** them. The timer, which starts when you click Start Lab, shows how long Google Cloud resources will be made available to you.
@@ -9,39 +27,12 @@ This hands-on lab lets you do the lab activities yourself in a **real cloud envi
 To complete this lab, you need:
 
 * Access to a standard internet browser (Chrome browser recommended).
-
-!!! warning
-    Note: Use an Incognito or private browser window to run this lab. This prevents any conflicts between your personal account and the Student account, which may cause extra charges incurred to your personal account.
-
 * Time to complete the lab---remember, once you start, you cannot pause a lab.
 
-!!! tip
-    Note: If you already have your own personal Google Cloud account or project, do not use it for this lab to avoid extra charges to your account.
-
-## How to start your lab and sign in to the Google Cloud Console
-1. Click the Start Lab button. If you need to pay for the lab, a pop-up opens for you to select your payment method. On the left is the Lab Details panel with the following:
+1. Click the Start Lab button. On the left is the Lab Details panel with the following:
 
     * Time remaining
     * Your temporary credentials that you must use for this lab
-    * Your temporary project ID
-    * Links to additional student resources
-
-2. Open Google Cloud console in new browser tab by clicking the **Google Cloud Console** link in **Student Resources**.
-
-    !!! tip
-        Note: If you see the "**Choose an account**" dialog, click Use Another Account.
-
-3. Copy the **GCP Username** and **Password** from the **Lab Details** panel and paste it into the **Sign in** dialog. Click **Next**.
-
-    !!! warning
-        Important: You must use the credentials from the left panel. Do not use your Google Cloud Skills Boost credentials.
-
-4. Click through the subsequent pages:
-
-    * Accept the terms and conditions.
-    * Do not add recovery options or two-factor authentication (because this is a temporary account).
-    * Do not sign up for free trials.
-
 
 ## Lab - Diagram
 
